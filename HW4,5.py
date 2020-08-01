@@ -276,7 +276,7 @@ df_georgia_year_import = pd.DataFrame({
 
 
 plt.plot(df_georgia_year_import['year'], df_georgia_year_import['value'])
-# overal tendence used to grow, but in the past 2 years it dropped a little bit
+
 
 
 # In[ ]:
